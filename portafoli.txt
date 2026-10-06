@@ -1,0 +1,25 @@
+==================================================
+PORTAFOLI PERSONAL I BITÀCOLA DE DESENVOLUPAMENT
+==================================================
+
+1. SOBRE MI
+Estudiant de DAM 1 amb el titul de batchillerat
+
+Nom i cognoms: [Eric Hidalgo Lopez]
+Cicle: CFGS Desenvolupament d'Aplicacions Multiplataforma (DAM)
+Presentació: [M'agrada l'informatica, estic fent aquest cicle per poder anar a la universitat d'informatica de barcelona. Vuir aprendre a poder fer els meus propis jocs]
+
+2. HABILITATS I EINES TÈCNIQUES
+Se utilitzar de forma basica el unity i java
+
+- Sistemes operatius: Windows
+- Control de versions: Git, GitHub
+- Línia de comandes: Bash / Terminal
+- Entorns i eines: [visual code i herd]
+
+3. BITÀCOLA DE PROJECTES I PRÀCTIQUES
+
+Pràctica 01: Configuració de l'entorn i repositori Git
+- Descripció: Creació del portafoli personal i configuració del control de versions
+Pràctica 02: Configuracio de drupal
+-Descripció: creacio d'una pagina web en un servidor local 
